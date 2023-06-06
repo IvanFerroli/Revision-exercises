@@ -31,6 +31,3 @@ function Counter(props) {
   )
 }
 
-function HandleClick() {
-
-}
